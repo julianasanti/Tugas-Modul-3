@@ -1,0 +1,10 @@
+.button {
+    position: relative;
+    padding: 6px 6px;
+    left: -1px;
+    border: 2px solid #000000;
+    background-color: #43dada;
+    color: #000000;
+    margin-right: 10px;
+    font-family: sans-serif;
+}

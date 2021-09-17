@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #dfdbdb;
+  background-size: cover;
+}
+
+code {
+  font-family: sans-serif,
+    monospace;
+}
